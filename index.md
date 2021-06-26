@@ -1,9 +1,5 @@
-# Neuron Template
+# Daniel Britten's Homepage
 
-You are viewing a template site that is generated from [neuron-template](https://github.com/srid/neuron-template) and published by [neuron](https://neuron.zettel.page/). [GitHub Pages](https://pages.github.com/) is used to automatically publish this site every time the underlying Git repository gets updated.
-
-Get started by reading [[README]]#.
-
-Other pages on this zettelkasten:
-
-- [[faq]]#
+## Links of interest
+[Formal Methods and Blockchain Blog](https://coda-coda.github.io/fmbc-zettels/)
+[General Blog](https://coda-coda.github.io/zettels/)
